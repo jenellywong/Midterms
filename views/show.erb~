@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Show</title>
+</head>
+<body>
+
+last_expense = expenses.last
+
+
+</body>
+</html>
